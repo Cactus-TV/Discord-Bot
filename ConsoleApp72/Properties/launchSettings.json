@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "bot": {
+      "commandName": "Project",
+      "sqlDebugging": true
+    }
+  }
+}
